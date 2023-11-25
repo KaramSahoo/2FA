@@ -1,0 +1,26 @@
+{
+    "user1": {
+      "fname": "Sreeja",
+      "lname": "Reddy",
+      "age": 22,
+      "workout": [
+        "Boxing",
+        "KickBoxing"
+      ],
+      "diet": [
+        "LowCalorie"
+      ]
+    },
+    "user2": {
+      "fname": "Ankit",
+      "lname": "Rai",
+      "age": 22,
+      "workout": [
+        "Boxing"
+      ],
+      "diet": [
+        "HighCalorie",
+        "LowCalorie"
+      ]
+    }
+  }
